@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Input username</string>
+    <string name="welcome_message">Tap the search button to begin searching</string>
+    <string name="search_count">%d Users Found</string>
+    <string name="favorite_count">Showing %d Users</string>
+    <string name="not_found">User not found</string>
+    <string name="dummy_username">Username</string>
+    <string name="dummy_details">%s</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="repo">Repositories</string>
+    <string name="settings">Settings</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="favorites">Favorites</string>
+    <string name="favorite_empty">No favorites yet!</string>
+    <string name="added">Added to favorite</string>
+    <string name="activate">Activate</string>
+    <string name="removed">Removed from favorites</string>
+</resources>
